@@ -1,0 +1,10 @@
+/.ipynb_checkpoints
+/__pycache__
+
+/data/*
+!/data/sector_ETFs.csv
+!/data/Indicators_Train_v2.csv
+
+/notebooks/*
+!/notebooks/Keras-NN-intro.ipynb
+!/notebooks/Stock Market Forecasting with a Simple Neural Network.ipynb
